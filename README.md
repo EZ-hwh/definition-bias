@@ -6,8 +6,6 @@ This is the official code for paper [*Is There a One-Model-Fits-All Approach to 
 
 ![Three settings for the probing tasks on definition bias across datasets.](assets/pilot.png)
 
-![Our two-stage tuning framework for addressing definition bias in IE.](assets/framework.png)
-
 ## Reproduction
 
 ### Setup
@@ -88,6 +86,8 @@ python predict.py \
     --input_file dataset/test_zs.jsonl \
     --output_file dataset/llama70b_zs_output.jsonl
 ```
+
+![Our two-stage tuning framework for addressing definition bias in IE.](assets/framework.png)
 
 ## Two-stage tuning framework
 We implement two-stage tuning framework on both decoder-only (Llama2) and encoder-decoder (FlanT5). Here we take the decoder-only as an example. (For encoder-decoder model, the code is in `FlanT5`)
