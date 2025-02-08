@@ -1,0 +1,42 @@
+NER:
+  - ACE 2004
+  - ACE 2005
+#  - AnatEM
+#  - bc2gm
+#  - bc4chemd
+#  - bc5cdr
+#  - Broad Tweet Corpus
+  - CoNLL 2003
+#  - FabNER
+#  - FindVehicle
+#  - GENIA_NER
+#  - HarveyNER
+#  - MultiNERD
+#  - ncbi
+  - Ontonotes
+  - PolyglotNER
+  - TweetNER7
+  - WikiANN en
+  - WikiNeural
+RE:
+#  - ADE_corpus
+  - conll04
+# - fewrel_0
+# - fewrel_1
+# - fewrel_2
+# - fewrel_3
+# - fewrel_4
+  - GIDS
+#  - kbp37
+  - New-York-Times-RE
+  - NYT11
+#  - SciERC
+#  - semval-RE
+#  - SKE2019
+#  - WebNLG
+# - wiki_0
+# - wiki_1
+# - wiki_2
+# - wiki_3
+# - wiki_4
+  - WikiKBP

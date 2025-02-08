@@ -1,0 +1,15 @@
+NER:
+  - ACE 2004
+  - ACE 2005
+  - CoNLL 2003
+  - Ontonotes
+  - PolyglotNER
+  - TweetNER7
+  - WikiANN en
+  - WikiNeural
+RE:
+  - conll04
+  - GIDS
+  - New-York-Times-RE
+  - NYT11
+  - WikiKBP

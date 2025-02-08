@@ -1,0 +1,35 @@
+NER:
+  - ACE 2004
+  - ACE 2005
+  - Broad Tweet Corpus
+  - CoNLL 2003
+  - MultiNERD
+  - Ontonotes
+  - PolyglotNER
+  - TweetNER7
+  - WikiANN en
+  - WikiNeural
+  - bc2gm
+  - bc5cdr
+  - bc4chemd
+  - ncbi
+  - E3C
+  - BioRED
+# RE:
+#   - conll04
+#   - fewrel_0
+#   - fewrel_1
+#   - fewrel_2
+#   - fewrel_3
+#   - fewrel_4
+#   - GIDS
+#   - kbp37
+#   - New-York-Times-RE
+#   - NYT11
+#   - semval-RE
+#   - wiki_0
+#   - wiki_1
+#   - wiki_2
+#   - wiki_3
+#   - wiki_4
+#   - WikiKBP
